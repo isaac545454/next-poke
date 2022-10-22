@@ -20,7 +20,7 @@
 
 <h2 style="margin-top: 20px">como rodar</h2>
 <ul>
-   <li>git clone https://github.com/isaac545454/rick</li>
+   <li>git clone https://github.com/isaac545454/next-poke</li>
    <li>yarn intall(baixar o node_modules)</li> 
    <li>yarn dev(rodar o projeto)</li> 
 </ul>
