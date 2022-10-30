@@ -1,5 +1,5 @@
 
-<h1 style="text-align: center">projeto</h1>
+<h1 style="text-align: center">pokedex em next</h1>
 <img src="20221022_192203.gif">
 
 
@@ -18,7 +18,7 @@
   <li>ver detalhes</li>
 </ul>
 
-<h2 style="margin-top: 20px">como rodar</h2>
+<h2 style="margin-top: 20px">Como Rodar</h2>
 <ul>
    <li>git clone https://github.com/isaac545454/next-poke</li>
    <li>yarn intall(baixar o node_modules)</li> 
